@@ -1,4 +1,4 @@
-You'll need to enable LTE in the SDK along with extensions.
+You'll need to enable LTE in the SDK along with extensions. This requires that the `alt1250` daemon is started with `lte_sysctl start` 
 
 Usage: `lte_at_cmd AT+COPS` or `lte_at_cmd AT%GETACFG`
 
